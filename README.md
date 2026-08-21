@@ -85,3 +85,7 @@ python rpi_alpr.py
 4. If the plate passes the majority-vote logic, the Pi sends a JSON payload to the laptop.
 5. You will see the plate number and confidence score print out in your laptop's terminal!
 <img width="400" height="650" alt="photo_2026-08-21_03-29-37" src="https://github.com/user-attachments/assets/b2be0a37-ccad-4d38-8cc5-9af454c88ed1" />
+
+## Test 
+<img width="867" height="1156" alt="photo_2026-08-21_03-30-25" src="https://github.com/user-attachments/assets/6f0cd495-1941-4a09-a2a1-2dbe04fdc577" />
+<img width="1156" height="867" alt="photo_2026-08-21_03-31-08" src="https://github.com/user-attachments/assets/468bf474-b1a9-402d-b948-15836cf861d9" />
