@@ -19,7 +19,9 @@ This project implements a real-time, edge-computing Automatic License Plate Reco
 
 ## Note 
 * The project was supposed to be submitted in May, but a bit of laziness took over and some extra features were added. It was also presented as a project at ENSTI Algeria by a group of three people, and I am the person responsible for writing the code and connecting it with all the necessary hardware.
-* Go to tag v1.0 to install yolov8 model 
+* Go to tag v1.0 to install yolov8 model
+* The file "_debug.py" is for program testing in static pictures ,I provided some images to test it .
+* Use AI to understand the code and how to run it better. Don't forget to follow me on LinkedIn at this link: https://www.linkedin.com/in/abdelhak-athamena-927212319/
 
 
 ## SETUP :
