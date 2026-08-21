@@ -1,4 +1,3 @@
-<img width="964" height="1280" alt="photo_2026-08-21_03-29-37" src="https://github.com/user-attachments/assets/b2be0a37-ccad-4d38-8cc5-9af454c88ed1" />
 # 🚗 Edge-Based Automatic License Plate Recognition (ALPR)
 
 ## Project Overview
@@ -85,3 +84,4 @@ python rpi_alpr.py
 3. When a plate is stable for 3 frames, PaddleOCR reads it.
 4. If the plate passes the majority-vote logic, the Pi sends a JSON payload to the laptop.
 5. You will see the plate number and confidence score print out in your laptop's terminal!
+<img width="400" height="650" alt="photo_2026-08-21_03-29-37" src="https://github.com/user-attachments/assets/b2be0a37-ccad-4d38-8cc5-9af454c88ed1" />
