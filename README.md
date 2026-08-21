@@ -1,3 +1,4 @@
+<img width="964" height="1280" alt="photo_2026-08-21_03-29-37" src="https://github.com/user-attachments/assets/b2be0a37-ccad-4d38-8cc5-9af454c88ed1" />
 # 🚗 Edge-Based Automatic License Plate Recognition (ALPR)
 
 ## Project Overview
